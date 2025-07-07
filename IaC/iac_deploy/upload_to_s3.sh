@@ -1,0 +1,1 @@
+aws s3 cp ../ml_app s3://mlops-216989116715-bucket/ --recursive
